@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my GitHub! I'm Aashish, passionate about coding and currently focused on mastering the MERN stack, Python, and Machine Learning. 🚀<br><br>👀 I'm actively learning Python for Machine Learning, aiming to leverage data science to solve real-world problems.<br><br>💼 I'm eager to collaborate with a dynamic team on innovative projects in web development and data science. Let's build something impactful together!<br><br>📧 You can easily reach out to me via email or through the contact form on my website. Let's connect and discuss how we can create value together!<br><br>😄 Thanks for visiting! Check out my GitHub profile and let's collaborate on exciting ventures.
+👋 Welcome to my GitHub! I'm Aashish, passionate about coding and currently focused on mastering the Backend Developer 🚀<br><br>👀 With 1.5 years of hands-on experience, I have successfully completed 20 projects, specializing in backend development and building scalable solutions tailored to meet the demands of large enterprises. My expertise spans across MongoDB, MySQL, Express.js, and Node.js, ensuring that the systems I design are robust, efficient, and capable of handling high-volume operations.</br>
 
 
 ## 🌐 Socials:
