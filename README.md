@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my GitHub! I'm Aashish, passionate about coding and currently focused on mastering the Backend Developer 🚀<br><br>👀 With 1.5 years of hands-on experience, I have successfully completed 20 projects, specializing in backend development and building scalable solutions tailored to meet the demands of large enterprises. My expertise spans across MongoDB, MySQL, Express.js, and Node.js, ensuring that the systems I design are robust, efficient, and capable of handling high-volume operations.</br>
+👋 Welcome to my GitHub! I'm Aashish, passionate about coding and currently focused on mastering the Backend Developer 🚀<br><br>👀 With 2.5 years of hands-on experience, I have successfully completed 20 projects, specializing in backend development and building scalable solutions tailored to meet the demands of large enterprises. My expertise spans across MongoDB, MySQL, Express.js, and Node.js, ensuring that the systems I design are robust, efficient, and capable of handling high-volume operations.</br>
 
 
 ## 🌐 Socials:
