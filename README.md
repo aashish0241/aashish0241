@@ -1,11 +1,23 @@
 # 💫 About Me:
-👋 Welcome to my GitHub! I'm **Aashish Timsina**, a passionate backend developer currently mastering the art of building scalable and secure systems.
+I'm **Aashish Timsina**, a Backend Developer specializing in **Web Scraping and Data Extraction Systems**. 🚀
 
-🚀 With 2.5+ years of experience, I’ve successfully completed 20+ projects focused on enterprise-grade backend architecture.  
-💼 My stack includes **Node.js**, **Express.js**, **MongoDB**, and **MySQL**, and I design systems that are fast, secure, and scalable.
+Currently, my primary focus is building **high-performance, scalable web scraping solutions** for data-driven applications. With 2.5+ years of experience and 20+ completed projects, I design systems that efficiently collect, process, and serve structured data at scale.
 
 ---
+## 💼 Core Expertise
+- 🌐 **Web Scraping:** Cheerio, Puppeteer, Playwright, Headless Browsers , Scrapy
+- ⚡ **Backend:** Node.js, Express.js  
+- 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL  
+- 🔐 **Security & APIs:** JWT, Rate Limiting, Proxy Handling  
+- 🧠 **Automation & Data Processing:** Data Cleaning, Performance Optimization  
 
+## 🚀 What I Build
+- Fast, reliable web scrapers and crawlers  
+- Distributed scraping architectures  
+- Production-ready backend systems  
+- Data-driven applications
+  
+**"Build fast. Build secure. Build scalable."**
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timsinaaashish6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-timsina-663ab02a8)
