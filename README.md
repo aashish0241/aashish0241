@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aashish+Timsina&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend+Engineer+%7C+Web+Scraping+%26+Data+Systems&descSize=17&descAlignY=58&descColor=aaaacc" width="100%" />
+
 
 <div align="center">
 
