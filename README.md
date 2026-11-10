@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aashish%20Timsina&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%94%20Web%20Scraping%20%26%20Data%20Systems&descSize=17&descAlignY=58&descColor=aaaacc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aashish+Timsina&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend+Engineer+%7C+Web+Scraping+%26+Data+Systems&descSize=17&descAlignY=58&descColor=aaaacc" width="100%" />
 
 <div align="center">
 
@@ -114,4 +114,4 @@ I build **high-performance web scraping and data extraction systems** — pipeli
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
